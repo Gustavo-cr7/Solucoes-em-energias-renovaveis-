@@ -89,4 +89,4 @@ O projeto demonstra a aplicação de conceitos de programação e monitoramento 
 
 ## Vídeo de Demonstração
 
-🎥 
+🎥 (https://youtu.be/Jj3Yyu0RvEY)
